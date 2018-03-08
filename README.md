@@ -8,13 +8,13 @@ Copyright (c) 2018 xPay Developers
 What is xPay?
 ----------------
 
-xPay is a fork version of Lite using scrypt as a proof-of-work algorithm.
+xPay is a fork of Litecoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
  - subsidy halves in 500k blocks
  - ~65 million total coins
  - 65 coins per block
  
- The rest is the same as Bitcoin.
+ The rest is the same as Litecoin.
 
 For more information, as well as an immediately useable, binary version of
 the xPay client sofware, see http://www.xpay.org.
