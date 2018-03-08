@@ -1,0 +1,9 @@
+Building xPay
+
+See doc/readme-qt.rst for instructions on building xPay-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of xPay.
+
+See doc/build-*.txt for instructions on building xpayd,
+the intended-for-services, no-graphical-interface, reference
+implementation of xPay.
