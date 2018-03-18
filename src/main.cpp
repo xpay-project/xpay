@@ -36,7 +36,7 @@ unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
 uint256 hashGenesisBlock("0x628eb615fee95058fbafb9f5c197f68a0b47a73e2c47a86cd39806a3d8d5d804");
-static CBigNum bnProofOfWorkLimit = CBigNum().SetCompact(521931903);
+static CBigNum bnProofOfWorkLimit = CBigNum().SetCompact(520134678);
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 uint256 nBestChainWork = 0;
